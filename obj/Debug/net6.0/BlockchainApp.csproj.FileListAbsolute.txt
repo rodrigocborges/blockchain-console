@@ -1,0 +1,15 @@
+C:\dev\BlockchainApp\bin\Debug\net6.0\BlockchainApp.exe
+C:\dev\BlockchainApp\bin\Debug\net6.0\BlockchainApp.deps.json
+C:\dev\BlockchainApp\bin\Debug\net6.0\BlockchainApp.runtimeconfig.json
+C:\dev\BlockchainApp\bin\Debug\net6.0\BlockchainApp.dll
+C:\dev\BlockchainApp\bin\Debug\net6.0\ref\BlockchainApp.dll
+C:\dev\BlockchainApp\bin\Debug\net6.0\BlockchainApp.pdb
+C:\dev\BlockchainApp\obj\Debug\net6.0\BlockchainApp.csproj.AssemblyReference.cache
+C:\dev\BlockchainApp\obj\Debug\net6.0\BlockchainApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\BlockchainApp\obj\Debug\net6.0\BlockchainApp.AssemblyInfoInputs.cache
+C:\dev\BlockchainApp\obj\Debug\net6.0\BlockchainApp.AssemblyInfo.cs
+C:\dev\BlockchainApp\obj\Debug\net6.0\BlockchainApp.csproj.CoreCompileInputs.cache
+C:\dev\BlockchainApp\obj\Debug\net6.0\BlockchainApp.dll
+C:\dev\BlockchainApp\obj\Debug\net6.0\ref\BlockchainApp.dll
+C:\dev\BlockchainApp\obj\Debug\net6.0\BlockchainApp.pdb
+C:\dev\BlockchainApp\obj\Debug\net6.0\BlockchainApp.genruntimeconfig.cache
